@@ -1,4 +1,4 @@
-# SwenSecurity
+# SwenzScripts
 # Persistence Scan Script
 
 ## Purpose
